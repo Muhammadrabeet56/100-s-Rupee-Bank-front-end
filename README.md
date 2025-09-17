@@ -194,12 +194,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👥 Team
 
 - Developer: Muhammadrabeet56
-- UI/UX: [Team Member]
-- Project Lead: [Team Lead]
+- UI/UX: Hamza Naeeem
 
 ## 📞 Support
 
-For support, please email [support-email] or raise an issue in the repository.
+For support, please email muhammadrabeet15@gmail.com or raise an issue in the repository.
    ```
 
 2. Start the app

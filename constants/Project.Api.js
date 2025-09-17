@@ -1,5 +1,5 @@
 
-export const API_URL = 'http://192.168.1.105:4000';
+export const API_URL = '';
  // Replace with your actual API URL 
 //  192.168.1.105
 //192.168.100.33

@@ -23,6 +23,7 @@
     },
     "android": {
       "adaptiveIcon": {
+        "package": "com.nfc.bank100",
         "foregroundImage": "./assets/images/LogoImg.png",
         "backgroundColor": "rgba(3, 9, 96, 1)"
       },
